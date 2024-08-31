@@ -43,6 +43,11 @@ The following key insights were drawn from the dashboard:
 - **Line Charts**: Visualize monthly trends in loan issuance and repayments.
 - **Slicers**: Provide filtering options by month, state, loan grade, and loan purpose.
 
+![bank loan analysis_page-0001](https://github.com/user-attachments/assets/210a1d58-da0b-42d2-a73b-822d912dea13)
+![bank loan analysis_page-0002](https://github.com/user-attachments/assets/2dfd9074-6a21-4a58-9122-6dead02db59b)
+![bank loan analysis_page-0003](https://github.com/user-attachments/assets/f7a34080-9a58-482b-ad26-f96eb0cc4076)
+
+
 ### Technologies Used
 
 - **SQL**: For data extraction and KPI calculation.
