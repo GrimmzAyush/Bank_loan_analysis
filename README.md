@@ -10,11 +10,11 @@ This project aims to provide a comprehensive analysis of a bank's loan portfolio
 
 - **Step 1**: Loaded the dataset (30,000+ loan records) into Power BI Desktop.
 - **Step 2**: Cleaned and transformed the data using Power Query Editor, checking for column quality, distribution, and profiling.
-- **Step 3**: Executed over 15 SQL queries to extract KPIs like total loan applications, funded amounts, average interest rates, and loan performance metrics.
+- **Step 3**: Executed 15+ SQL queries to extract KPIs like total loan applications, funded amounts, average interest rates, and loan performance metrics.
 - **Step 4**: Created 3 detailed Power BI dashboards with 10+ dynamic filters to allow users to explore loan data across multiple dimensions such as month, state, and loan grade.
 - **Step 5**: Added card visuals to display key metrics like total loan applications, average funded amount, and average interest rate.
 - **Step 6**: Visualized loan performance with bar charts, segmenting good (fully paid/current) vs. bad (charged-off) loans, and incorporated slicers for detailed analysis.
-- **Step 7**: Published the report to Power BI Service for easy access and collaboration.
+- **Step 7**: Published the report for easy access and collaboration.
 
 ### Insights
 
@@ -43,7 +43,7 @@ The following key insights were drawn from the dashboard:
 - **Line Charts**: Visualize monthly trends in loan issuance and repayments.
 - **Slicers**: Provide filtering options by month, state, loan grade, and loan purpose.
 
-![bank loan analysis_page-0001](https://github.com/user-attachments/assets/210a1d58-da0b-42d2-a73b-822d912dea13)
+![bank loan analysis_page-0001](https://github.com/user-attachments/assets/3e6f70e3-672b-4f0d-9d55-fb12025cd8ec)
 ![bank loan analysis_page-0002](https://github.com/user-attachments/assets/2dfd9074-6a21-4a58-9122-6dead02db59b)
 ![bank loan analysis_page-0003](https://github.com/user-attachments/assets/f7a34080-9a58-482b-ad26-f96eb0cc4076)
 
