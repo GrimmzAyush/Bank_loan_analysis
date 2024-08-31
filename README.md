@@ -55,10 +55,10 @@ The following key insights were drawn from the dashboard:
 
 ### How to Use
 
-1. **SQL Queries**: Access the SQL scripts in the `SQL Queries` folder. Run these queries on the provided dataset to extract KPIs.
-2. **Power BI Dashboard**: Open the `.pbix` file in Power BI Desktop to interact with the visualizations and explore the data using filters.
-3. **Dataset**: The dataset used for this analysis is included in the `Data` folder. Ensure your SQL environment is connected to this dataset for accurate results.
-
+1. **SQL Queries**: Access the SQL scripts in the `BANK LOAN REPORT SQL QUERIES` Document
+2. **Power BI Dashboard**: Open the `bank_loan_analysis.pbix` file in Power BI Desktop to interact with the visualizations and explore the data using filters.
+3. **Dataset**: The dataset used for this analysis is included in the `financial_loan.csv` file.
+   
 ### Conclusion
 
 This project highlights the importance of data-driven decision-making in financial services. By analyzing key loan metrics, stakeholders can gain valuable insights that help in optimizing loan processes and reducing financial risk.
